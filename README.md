@@ -21,7 +21,7 @@ This project analyzes employee attrition using HR data to identify key factors t
 ---
 
 ## Documentation📄
-This project includes a detailed report that includes full explanations about project dashboards and insights : 
+This project includes a detailed report that includes full explanations about project dashboards and insights :<br>
 📄 [employee-attrition-analysis-report.pdf](employee-attrition-analysis-report.pdf)  
 
 ---
