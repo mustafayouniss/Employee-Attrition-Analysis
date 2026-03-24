@@ -49,12 +49,17 @@ Analyzes the relationship between salary, job level, and career growth with empl
  ┗ 📁 screenshots                               # Images used in README (Dashboard preview images for README)
      ┣ 📸 hero-image1.png                       # Overview dashboard preview  
      ┣ 📸 hero-image2.png                       # Workplace factors dashboard preview  
+     ┣ 📸 adding-data-path-example.png          # adding dataset path example in data source settings
 
 ```
-
 ## How to Use 🚀
 1. Open the Power BI file
 2. Explore the dashboards using filters and slicers
 3. Analyze insights and trends
 
+### Usage Note:
+The Power BI file contains an internal copy of the dataset, so users can fully interact with the dashboards, apply filters, and explore the visuals without needing the original data file. However, any modification or direct refresh of the data requires the cleaned dataset (employee-attrition-analysis-data-cleaned.csv) to be available locally, and the file path must be updated in Power BI under Transform Data → Data source settings.
+<p align="center">
+  <img src="screenshots/adding-data-path-example.png" width="800"/>
+</p>
 ---
