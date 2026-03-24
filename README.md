@@ -1,4 +1,4 @@
-# Employee Attrition Analysis
+# Employee Attrition Analysis 📊
 This project analyzes employee attrition using HR data to identify key factors that influence employee turnover. It was developed using Microsoft Power BI, DAX, and data modeling techniques to generate interactive dashboards and insights that help organizations improve retention and workforce planning.
 
 ---
@@ -28,13 +28,13 @@ This project includes a detailed report that includes full explanations about pr
 
 
 ## Dashboards 📈
-### 1. Overview Dashboard
+### 1. Overview Dashboard 🧭
 Provides general insights about employees such as distribution by department, gender, age, and job satisfaction.
 
-### 2. Workplace Factors Dashboard
+### 2. Workplace Factors Dashboard 🏢
 Shows how work-related factors like overtime, business travel, income, and experience affect employee attrition.
 
-### 3. Compensation with Attrition Dashboard
+### 3. Compensation with Attrition Dashboard 💰
 Analyzes the relationship between salary, job level, and career growth with employee turnover.
 
 ---
@@ -53,8 +53,8 @@ Analyzes the relationship between salary, job level, and career growth with empl
 ```
 
 ## How to Use 🚀
-1- Open the Power BI file
-2- Explore the dashboards using filters and slicers
-3- Analyze insights and trends
+1. Open the Power BI file
+2. Explore the dashboards using filters and slicers
+3. Analyze insights and trends
 
 ---
